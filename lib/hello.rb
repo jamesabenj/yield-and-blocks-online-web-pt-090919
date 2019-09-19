@@ -7,5 +7,6 @@ i = i + 1
   array 
 end
 
+hello_t(["Tim", "Tom", "Jim"])
 # call your method here!
 
